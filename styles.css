@@ -1,0 +1,33 @@
+body
+{
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link
+{
+    text-decoration: none;
+}
+
+.all div, .all h1
+{
+    text-align: center;
+}
+
+.all p
+{
+    text-align: center;
+}
+
+img
+{
+    height: auto;
+    width: 500px;
+}
+
+.all img
+{
+    height: auto;
+    width: 450px;
+}
+
