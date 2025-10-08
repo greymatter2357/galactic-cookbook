@@ -1,1 +1,1 @@
-# cosmic-cookbook
+In this project I will be listing down my favorite fictional dishes as well as their recipes from across the cosmos.
