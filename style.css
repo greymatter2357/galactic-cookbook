@@ -17,7 +17,7 @@ body{
     margin: 32px;
     margin-bottom: 16px;
     color: black;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 li a {
