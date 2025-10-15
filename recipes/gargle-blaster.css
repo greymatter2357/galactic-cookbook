@@ -1,0 +1,68 @@
+* {
+    font-family: Chewy, sans-serif;
+    box-sizing: border-box;
+    margin-top: 0px;
+}
+
+body{
+    background-color: chocolate;
+    padding: 0;
+    margin: 0;
+}
+
+.title {
+    font-family: Chewy, sans-serif;
+    font-size: 60px;
+    margin: 32px;
+    margin-bottom: 50px;
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.container {
+    background-color: blanchedalmond;
+    width: 1000px;
+    margin: 40px auto;
+}
+
+img {
+    display: inline-block;
+    margin: 15px;
+}
+
+.description {
+    font-size: 22px;
+    width: 500px;
+    display: inline-block;
+    margin: 15px;
+    vertical-align: top;
+}
+
+.description h3 {
+    font-size: 32px;
+}
+
+.ingredients {
+    font-size: 22px;
+    margin: 15px;
+}
+
+.ingredients h3 {
+    font-size: 32px;
+}
+
+li {
+    margin: 10px;
+}
+
+.back-link {
+     display: block;
+     font-size: 32px;
+     text-decoration: none;
+     text-align: center;
+}
+
+.back-link:hover {
+    color: chocolate;
+}

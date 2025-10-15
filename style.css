@@ -1,0 +1,38 @@
+* {
+    font-family: Monoco, "Lucida Console", sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blanchedalmond
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-family: Chewy, sans-serif;
+    font-size: 60px;
+    margin: 32px;
+    margin-bottom: 16px;
+    color: black;
+    text-decoration: underline;
+}
+
+li a {
+    font-family: Chewy, sans-serif;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    display: block;
+    font-size: 32px;
+}
+
+li a:hover{
+    color: chocolate;
+}
+
+
+
+
