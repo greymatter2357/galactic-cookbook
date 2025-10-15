@@ -12,7 +12,7 @@ body{
 }
 
 .title {
-    font-family: Chewy, sans-serif;
+    font-family: Monoco, "Lucida console", sans-serif;
     font-size: 60px;
     margin: 32px;
     margin-bottom: 16px;
@@ -21,7 +21,7 @@ body{
 }
 
 li a {
-    font-family: Chewy, sans-serif;
+    font-family: Monoco, "Lucida console", sans-serif;
     text-decoration: none;
     color: black;
     padding: 10px;
